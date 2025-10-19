@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
+torchaudio
+imbalanced-learn
+line_profiler
+requests
+imageio
+ucimlrepo
